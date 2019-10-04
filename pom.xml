@@ -33,6 +33,14 @@
      
     </dependency>
     
+    <!-- https://mvnrepository.com/artifact/com.github.mkolisnyk/cucumber-reports -->
+<dependency>
+    <groupId>com.github.mkolisnyk</groupId>
+    <artifactId>cucumber-reports</artifactId>
+    <version>1.0.7</version>
+</dependency>
+    
+    
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
